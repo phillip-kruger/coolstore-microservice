@@ -71,7 +71,7 @@ Troubleshooting
   oc create -n openshift -f https://raw.githubusercontent.com/jboss-openshift/application-templates/ose-v1.4.17/webserver/jws31-tomcat8-image-stream.json
   oc create -n openshift -f https://raw.githubusercontent.com/jboss-openshift/application-templates/ose-v1.4.17/eap/eap70-image-stream.json
   oc create -n openshift -f https://raw.githubusercontent.com/jboss-openshift/application-templates/ose-v1.4.17/decisionserver/decisionserver64-image-stream.json
-  oc create -n openshift -f https://raw.githubusercontent.com/jboss-openshift/application-templates/ose-v1.4.17/datagrid/datagrid65-image-stream.json
+  oc create -n openshift -f https://raw.githubusercontent.com/jboss-openshift/application-templates/ose-v1.4.17/datagrid/datagrid71-image-stream.json
   
   ```
 
